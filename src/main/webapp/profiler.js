@@ -1,3 +1,6 @@
+/**
+ * Created by Пеня on 01.04.2016.
+ */
 var startTime;
 
 function saveStartTime() {

@@ -1,0 +1,2750 @@
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083
+City First Bank of D.C., National Association	34352	Washington	DC	20009	District Of Columbia	127011
+1st National Bank	6646	Lebanon	OH	45036	Warren	115230
+1st National Community Bank	26977	East Liverpool	OH	43920	Columbiana	102089
+Advantage Bank	29864	Cambridge	OH	43725	Guernsey	1040943
+1st American State Bank of Minnesota	15448	Hancock	MN	56244	Stevens	33596
+1st Regents Bank	57157	Andover	MN	55304	Anoka	77148
+21st Century Bank	9751	Loretto	MN	55357	Hennepin	367980
+1st Independence Bank	11338	Louisville	KY	40250	Jefferson	340427
+1st Trust Bank, Inc.	57869	Hazard	KY	41701	Perry	63211
+Alliance Banking Company	57424	Winchester	KY	40391	Clark	47363
+1st Security Bank of Washington	57633	Mountlake Terrace	WA	98043	Snohomish	258813
+American Marine Bank	16730	Bainbridge Island	WA	98110	Kitsap	385198
+AmericanWest Bank	22441	Spokane	WA	99201	Spokane	2043206
+1st Community Bank	11706	Sherrard	IL	61281	Mercer	49726
+1st Equity Bank	34393	Skokie	IL	60076	Cook	127982
+1st Equity Bank Northwest	57611	Buffalo Grove	IL	60089	Cook	51589
+Albina Community Bank	34106	Portland	OR	97212	Multnomah	152921
+Bank of America Oregon, National Association	35453	Portland	OR	97204	Multnomah	14936377
+Bank of Astoria	19877	Astoria	OR	97103	Clatsop	223369
+AmBank	34302	Silver City	NM	88062	Grant	87417
+American Heritage Bank	57025	Clovis	NM	88101	Curry	51037
+Bank 1st	34554	Albuquerque	NM	87110	Bernalillo	82004
+Abbeville Savings and Loan, SSB	30619	Abbeville	SC	29620	Abbeville	85768
+Allendale County Bank	15062	Fairfax	SC	29827	Allendale	51600
+Anderson Brothers Bank	9923	Mullins	SC	29574	Marion	370629
+Access National Bank	35189	Reston	VA	20191	Fairfax City	651028
+Alliance Bank Corporation	34664	Chantilly	VA	20151	Fairfax	579677
+American National Bank and Trust Company	6837	Danville	VA	24543	Danville City	772861
+Abbeville Building & Loan	30332	Abbeville	LA	70511	Vermilion	26488
+American Bank & Trust Company	19234	Coushatta	LA	71019	St. Tammany	86437
+American Bank & Trust Company	17906	Opelousas	LA	70571	St. Landry	114912
+AFB&T	28225	Athens	GA	30603	Clarke	1241590
+Albany Bank & Trust, National Association	35029	Albany	GA	31708	Dougherty	178104
+Alliance National Bank	35173	Dalton	GA	30722	Whitfield	134014
+Adams National Bank	22658	Washington	DC	20036	District Of Columbia	352443
+Bank of Georgetown	57941	Washington	DC	20007	District Of Columbia	146083

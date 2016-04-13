@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:o="http://openfaces.org/">
+
+<h:head>
+    <script type="text/javascript" src="profiler.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.3.min.js" type="text/javascript"></script>
+</h:head>
+
+<h:body>
+    <h:form>
+        <o:dataTable id="banks" var="bank"
+                     value="#{banksList.banks}"
+                     rowKey="#{bank.id}"
+                     liveScroll="true"
+                     scrollRows="25"
+                     sortColumnId="institutionName"
+                     columnsOrder="#{sessionScope.banks_savedColumnsOrder}"
+                    style="height:800px;">
+            <f:facet name="header">
+                <o:groupingBox/>
+            </f:facet>
+            <o:rowGrouping groupingRules="#{sessionScope.banks_savedGroupingRules}"
+                           expansionState="#{banksList.expansionState}"
+                           groupHeaderRowStyle="font-size: 11pt"/>
+            <o:singleRowSelection rowData="#{sessionScope.selectedBank}"/>
+            <o:columnReordering/>
+            <o:scrolling horizontal="true"/>
+
+            <f:facet name="columnMenu">
+                <o:columnMenu/>
+            </f:facet>
+
+            <o:column  header="Institution Name"
+                       width="30%"
+                       fixed="true"
+                       sortingExpression="#{bank.institutionName}">
+                <f:facet name="subHeader">
+                    <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
+                </f:facet>
+
+                <o:dropDownField value="#{dropDownBean.selectedFontColor}"
+                                 var="color"
+                                 converter="#{dropDownBean.colorConverter}"
+                                 customValueAllowed="false"
+                                 required="true"
+                                 suggestionMode="substring"
+                                 autoComplete="true"
+                >
+                    <o:dropDownItems value="#{dropDownBean.colors}"/>
+                    <o:column width="12px">
+                        <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
+                    </o:column>
+                    <o:column>
+                        <h:outputText value="#{color.name}"/>
+                    </o:column>
+                </o:dropDownField>
+                <h:outputText value="#{bank.institutionName}"/>
+            </o:column>
+            <o:column header="Certificate Number"
+                      width="10%"
+                      fixed="true"
+                      sortingExpression="#{bank.certificateNumber}">
+                <f:facet name="subHeader">
+                    <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
+                </f:facet>
+
+                <o:dropDownField value="#{dropDownBean.selectedFontColor}"
+                                 var="color"
+                                 converter="#{dropDownBean.colorConverter}"
+                                 customValueAllowed="false"
+                                 required="true"
+                                 suggestionMode="substring"
+                                 autoComplete="true"
+                >
+                    <o:dropDownItems value="#{dropDownBean.colors}"/>
+                    <o:column width="12px">
+                        <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
+                    </o:column>
+                    <o:column>
+                        <h:outputText value="#{color.name}"/>
+                    </o:column>
+                </o:dropDownField>
+                <h:outputText value="#{bank.certificateNumber}"/>
+            </o:column>
+            <o:columnGroup header="Address">
+                <o:column header="City"
+                          width="14%"
+                          sortingExpression="#{bank.city}">
+                    <f:facet name="subHeader">
+                        <o:inputTextFilter/>
+                    </f:facet>
+
+                    <o:dropDownField value="#{dropDownBean.selectedFontColor}"
+                                     var="color"
+                                     converter="#{dropDownBean.colorConverter}"
+                                     customValueAllowed="false"
+                                     required="true"
+                                     suggestionMode="substring"
+                                     autoComplete="true"
+                    >
+                        <o:dropDownItems value="#{dropDownBean.colors}"/>
+                        <o:column width="12px">
+                            <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
+                        </o:column>
+                        <o:column>
+                            <h:outputText value="#{color.name}"/>
+                        </o:column>
+                    </o:dropDownField>
+                    <h:outputText value="#{bank.city}"/>
+                </o:column>
+                <o:column header="State"
+                          width="7%"
+                          sortingExpression="#{bank.state}">
+                    <f:facet name="subHeader">
+                        <o:dropDownFieldFilter maxlength="2" customValueAllowed="false"/>
+                    </f:facet>
+
+                    <o:dropDownField value="#{dropDownBean.selectedFontColor}"
+                                     var="color"
+                                     converter="#{dropDownBean.colorConverter}"
+                                     customValueAllowed="false"
+                                     required="true"
+                                     suggestionMode="substring"
+                                     autoComplete="true"
+                    >
+                        <o:dropDownItems value="#{dropDownBean.colors}"/>
+                        <o:column width="12px">
+                            <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
+                        </o:column>
+                        <o:column>
+                            <h:outputText value="#{color.name}"/>
+                        </o:column>
+                    </o:dropDownField>
+                    <h:outputText value="#{bank.state}"/>
+                </o:column>
+                <o:column header="Zip"
+                          width="7%"
+                          sortingExpression="#{bank.zip}">
+                    <f:facet name="subHeader">
+                        <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
+                    </f:facet>
+
+                    <o:dropDownField value="#{dropDownBean.selectedFontColor}"
+                                     var="color"
+                                     converter="#{dropDownBean.colorConverter}"
+                                     customValueAllowed="false"
+                                     required="true"
+                                     suggestionMode="substring"
+                                     autoComplete="true"
+                    >
+                        <o:dropDownItems value="#{dropDownBean.colors}"/>
+                        <o:column width="12px">
+                            <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
+                        </o:column>
+                        <o:column>
+                            <h:outputText value="#{color.name}"/>
+                        </o:column>
+                    </o:dropDownField>
+                    <h:outputText value="#{bank.zip}"/>
+                </o:column>
+                <o:column header="County"
+                          width="13%"
+                          sortingExpression="#{bank.county}">
+                    <f:facet name="subHeader">
+                        <o:inputTextFilter/>
+                    </f:facet>
+                    <h:outputText value="#{bank.county}"/>
+                </o:column>
+            </o:columnGroup>
+            <o:column header="Average Assets"
+                      width="19%"
+
+                      sortingExpression="#{bank.averageAssets}"
+                      groupingExpression="#{banksList.averageAssetsRange}">
+                <f:facet name="subHeader">
+                    <o:comboBoxFilter expression="#{banksList.averageAssetsRange}"
+                                      options="#{banksList.averageAssetsFilterValues}"/>
+                </f:facet>
+
+
+                <o:dropDownField value="#{dropDownBean.selectedFontColor}"
+                                 var="color"
+                                 converter="#{dropDownBean.colorConverter}"
+                                 customValueAllowed="false"
+                                 required="true"
+                                 suggestionMode="substring"
+                                 autoComplete="true"
+                >
+                    <o:dropDownItems value="#{dropDownBean.colors}"/>
+                    <o:column width="12px">
+                        <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
+                    </o:column>
+                    <o:column>
+                        <h:outputText value="#{color.name}"/>
+                    </o:column>
+                </o:dropDownField>
+                <h:outputText value="#{bank.averageAssets}">
+                    <f:convertNumber type="number"/>
+                </h:outputText>
+            </o:column>
+
+            <o:column  header="Institution Name"
+                       width="30%"
+                       sortingExpression="#{bank.institutionName}">
+                <f:facet name="subHeader">
+                    <o:inputTextFilter/>
+                </f:facet>
+                <h:outputText value="#{bank.institutionName}"/>
+            </o:column>
+            <o:column header="Certificate Number"
+                      width="10%"
+                      sortingExpression="#{bank.certificateNumber}">
+                <f:facet name="subHeader">
+                    <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
+                </f:facet>
+                <h:outputText value="#{bank.certificateNumber}"/>
+            </o:column>
+            <o:columnGroup header="Address">
+                <o:column header="City"
+                          width="14%"
+                          sortingExpression="#{bank.city}">
+                    <f:facet name="subHeader">
+                        <o:inputTextFilter/>
+                    </f:facet>
+                    <h:outputText value="#{bank.city}"/>
+                </o:column>
+                <o:column header="State"
+                          width="7%"
+                          sortingExpression="#{bank.state}">
+                    <f:facet name="subHeader">
+                        <o:dropDownFieldFilter maxlength="2" customValueAllowed="false"/>
+                    </f:facet>
+                    <h:outputText value="#{bank.state}"/>
+                </o:column>
+                <o:column header="Zip"
+                          width="7%"
+                          sortingExpression="#{bank.zip}">
+                    <f:facet name="subHeader">
+                        <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
+                    </f:facet>
+                    <h:outputText value="#{bank.zip}"/>
+                </o:column>
+                <o:column header="County"
+                          width="13%"
+                          sortingExpression="#{bank.county}">
+                    <f:facet name="subHeader">
+                        <o:inputTextFilter/>
+                    </f:facet>
+                    <h:outputText value="#{bank.county}"/>
+                </o:column>
+            </o:columnGroup>
+            <o:column header="Average Assets"
+                      width="19%"
+
+                      sortingExpression="#{bank.averageAssets}"
+                      groupingExpression="#{banksList.averageAssetsRange}">
+                <f:facet name="subHeader">
+                    <o:comboBoxFilter expression="#{banksList.averageAssetsRange}"
+                                      options="#{banksList.averageAssetsFilterValues}"/>
+                </f:facet>
+
+                <h:outputText value="#{bank.averageAssets}">
+                    <f:convertNumber type="number"/>
+                </h:outputText>
+            </o:column>
+
+            <o:column  header="Institution Name"
+                       width="30%"
+                       sortingExpression="#{bank.institutionName}">
+                <f:facet name="subHeader">
+                    <o:inputTextFilter/>
+                </f:facet>
+                <h:outputText value="#{bank.institutionName}"/>
+            </o:column>
+            <o:column header="Certificate Number"
+                      width="10%"
+                      sortingExpression="#{bank.certificateNumber}">
+                <f:facet name="subHeader">
+                    <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
+                </f:facet>
+                <h:outputText value="#{bank.certificateNumber}"/>
+            </o:column>
+
+            <o:column header="Average Assets"
+                      width="19%"
+
+                      sortingExpression="#{bank.averageAssets}"
+                      groupingExpression="#{banksList.averageAssetsRange}">
+                <f:facet name="subHeader">
+                    <o:comboBoxFilter expression="#{banksList.averageAssetsRange}"
+                                      options="#{banksList.averageAssetsFilterValues}"/>
+                </f:facet>
+
+                <h:outputText value="#{bank.averageAssets}">
+                    <f:convertNumber type="number"/>
+                </h:outputText>
+            </o:column>
+        </o:dataTable>
+        <div>
+            <label for="requestCounterFrapme">request Counter</label>
+            <span id="requestCounterFrapme">0</span>
+            <label for="minTimeRequestFrapme">min time</label>
+            <span id="minTimeRequestFrapme">0</span>
+            <label for="maxTimeRequestFrapme">max time</label>
+            <span id="maxTimeRequestFrapme">0</span>
+            <label for="avgTimeRequestFrapme">avg time</label>
+            <span id="avgTimeRequestFrapme">0</span>
+            <label for="sumTimeRequestFrapme">sum time</label>
+            <span id="sumTimeRequestFrapme">0</span>
+        </div>
+        <div>
+            <span id="response">response</span>
+            <label for="minTimeResponseFrapme">min time</label>
+            <span id="minTimeResponseFrapme">0</span>
+            <label for="maxTimeResponseFrapme">max time</label>
+            <span id="maxTimeResponseFrapme">0</span>
+            <label for="avgTimeResponseFrapme">avg time</label>
+            <span id="avgTimeResponseFrapme">0</span>
+            <label for="sumTimeResponseFrapme">sum time</label>
+            <span id="sumTimeResponseFrapme">0</span>
+        </div>
+
+        <script type="text/javascript">
+            window.onload = function () {
+                updateFrameProfilerInfo()
+            };
+        </script>
+    </h:form>
+
+</h:body>
+</html>

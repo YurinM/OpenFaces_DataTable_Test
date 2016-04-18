@@ -23,27 +23,21 @@ function updateFrameProfilerInfo() {
     setTimeout(updateFrameProfilerInfo, 1000);
 }
 function renderInfo(entries) {
-    document.getElementById("requestCounter").innerText = entries.length;
-    document.getElementById("minTimeRequest").innerText = _getMinRequest(entries);
-    document.getElementById("maxTimeRequest").innerText = _getMaxRequest(entries);
-    document.getElementById("avgTimeRequest").innerText = _getAvgRequest(entries);
-    document.getElementById("sumTimeRequest").innerText = _getAvgRequest(entries);
-    document.getElementById("minTimeResponse").innerText = _getMinResponse(entries);
-    document.getElementById("maxTimeResponse").innerText = _getMaxResponse(entries);
-    document.getElementById("avgTimeResponse").innerText = _getAvgResponse(entries);
-    document.getElementById("sumTimeResponse").innerText = _getSumResponse(entries);
+  /*  document.getElementById("requestCounter").innerText = entries.length;
+    document.getElementById("avgTimeRequest").innerText = Math.round(_getAvgRequest(entries));
+    document.getElementById("avgTimeResponse").innerText = Math.round(_getAvgResponse(entries));*/
 }
 
 function renderFrameInfo(entries) {
     document.getElementById("requestCounterFrapme").innerText = entries.length;
-    document.getElementById("minTimeRequestFrapme").innerText = _getMinRequest(entries);
-    document.getElementById("maxTimeRequestFrapme").innerText = _getMaxRequest(entries);
-    document.getElementById("avgTimeRequestFrapme").innerText = _getAvgRequest(entries);
-    document.getElementById("sumTimeRequestFrapme").innerText = _getAvgRequest(entries);
-    document.getElementById("minTimeResponseFrapme").innerText = _getMinResponse(entries);
-    document.getElementById("maxTimeResponseFrapme").innerText = _getMaxResponse(entries);
-    document.getElementById("avgTimeResponseFrapme").innerText = _getAvgResponse(entries);
-    document.getElementById("sumTimeResponseFrapme").innerText = _getSumResponse(entries);
+    document.getElementById("minTimeRequestFrapme").innerText = Math.round(_getMinRequest(entries));
+    document.getElementById("maxTimeRequestFrapme").innerText = Math.round(_getMaxRequest(entries));
+    document.getElementById("avgTimeRequestFrapme").innerText = Math.round(_getAvgRequest(entries));
+    document.getElementById("sumTimeRequestFrapme").innerText = Math.round(_getAvgRequest(entries));
+    document.getElementById("minTimeResponseFrapme").innerText = Math.round(_getMinResponse(entries));
+    document.getElementById("maxTimeResponseFrapme").innerText = Math.round(_getMaxResponse(entries));
+    document.getElementById("avgTimeResponseFrapme").innerText = Math.round(_getAvgResponse(entries));
+    document.getElementById("sumTimeResponseFrapme").innerText = Math.round(_getSumResponse(entries));
 }
 function _getMaxRequest(entries) {
     var max = 0;

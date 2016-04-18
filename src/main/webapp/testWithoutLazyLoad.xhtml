@@ -5,9 +5,37 @@
       xmlns:f="http://java.sun.com/jsf/core"
       xmlns:h="http://java.sun.com/jsf/html"
       xmlns:o="http://openfaces.org/">
+
 <h:head>
+    <script type="text/javascript" src="profilerWithoutLazy.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.3.min.js" type="text/javascript"></script>
 </h:head>
+
 <h:body>
+    <div>
+        <label for="requestCounterFrapmeL">request Counter</label>
+        <span id="requestCounterFrapmeL">0</span>
+        <label for="minTimeRequestFrapmeL">min time</label>
+        <span id="minTimeRequestFrapmeL">0</span>
+        <label for="maxTimeRequestFrapmeL">max time</label>
+        <span id="maxTimeRequestFrapmeL">0</span>
+        <label for="avgTimeRequestFrapmeL">avg time</label>
+        <span id="avgTimeRequestFrapmeL">0</span>
+        <label for="sumTimeRequestFrapmeL">sum time</label>
+        <span id="sumTimeRequestFrapmeL">0</span>
+    </div>
+    <div>
+        <span id="responseL">response</span>
+        <label for="minTimeResponseFrapmeL">min time</label>
+        <span id="minTimeResponseFrapmeL">0</span>
+        <label for="maxTimeResponseFrapmeL">max time</label>
+        <span id="maxTimeResponseFrapmeL">0</span>
+        <label for="avgTimeResponseFrapmeL">avg time</label>
+        <span id="avgTimeResponseFrapmeL">0</span>
+        <label for="sumTimeResponseFrapmeL">sum time</label>
+        <span id="sumTimeResponseFrapmeL">0</span>
+    </div>
+
     <h:form>
         <o:dataTable id="banks" var="bank"
                      value="#{banksList.banks}"
@@ -33,9 +61,7 @@
                       width="30%"
                       fixed="true"
                       sortingExpression="#{bank.institutionName}">
-                <f:facet name="subHeader">
-                    <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
-                </f:facet>
+
 
                 <o:dropDownField value="#{dropDownBean.selectedFontColor}"
                                  var="color"
@@ -44,7 +70,7 @@
                                  required="true"
                                  suggestionMode="substring"
                                  autoComplete="true"
-                        >
+                >
                     <o:dropDownItems value="#{dropDownBean.colors}"/>
                     <o:column width="12px">
                         <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
@@ -59,9 +85,7 @@
                       width="10%"
                       fixed="true"
                       sortingExpression="#{bank.certificateNumber}">
-                <f:facet name="subHeader">
-                    <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
-                </f:facet>
+
 
                 <o:dropDownField value="#{dropDownBean.selectedFontColor}"
                                  var="color"
@@ -70,7 +94,7 @@
                                  required="true"
                                  suggestionMode="substring"
                                  autoComplete="true"
-                        >
+                >
                     <o:dropDownItems value="#{dropDownBean.colors}"/>
                     <o:column width="12px">
                         <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
@@ -85,9 +109,7 @@
                 <o:column header="City"
                           width="14%"
                           sortingExpression="#{bank.city}">
-                    <f:facet name="subHeader">
-                        <o:inputTextFilter/>
-                    </f:facet>
+
 
                     <o:dropDownField value="#{dropDownBean.selectedFontColor}"
                                      var="color"
@@ -96,7 +118,7 @@
                                      required="true"
                                      suggestionMode="substring"
                                      autoComplete="true"
-                            >
+                    >
                         <o:dropDownItems value="#{dropDownBean.colors}"/>
                         <o:column width="12px">
                             <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
@@ -121,7 +143,7 @@
                                      required="true"
                                      suggestionMode="substring"
                                      autoComplete="true"
-                            >
+                    >
                         <o:dropDownItems value="#{dropDownBean.colors}"/>
                         <o:column width="12px">
                             <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
@@ -135,9 +157,7 @@
                 <o:column header="Zip"
                           width="7%"
                           sortingExpression="#{bank.zip}">
-                    <f:facet name="subHeader">
-                        <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
-                    </f:facet>
+
 
                     <o:dropDownField value="#{dropDownBean.selectedFontColor}"
                                      var="color"
@@ -146,7 +166,7 @@
                                      required="true"
                                      suggestionMode="substring"
                                      autoComplete="true"
-                            >
+                    >
                         <o:dropDownItems value="#{dropDownBean.colors}"/>
                         <o:column width="12px">
                             <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
@@ -160,9 +180,7 @@
                 <o:column header="County"
                           width="13%"
                           sortingExpression="#{bank.county}">
-                    <f:facet name="subHeader">
-                        <o:inputTextFilter/>
-                    </f:facet>
+
                     <h:outputText value="#{bank.county}"/>
                 </o:column>
             </o:columnGroup>
@@ -184,7 +202,7 @@
                                  required="true"
                                  suggestionMode="substring"
                                  autoComplete="true"
-                        >
+                >
                     <o:dropDownItems value="#{dropDownBean.colors}"/>
                     <o:column width="12px">
                         <h:outputText styleClass="colorRect" style="background: #{color.name};"/>
@@ -201,26 +219,20 @@
             <o:column header="Institution Name"
                       width="30%"
                       sortingExpression="#{bank.institutionName}">
-                <f:facet name="subHeader">
-                    <o:inputTextFilter/>
-                </f:facet>
+
                 <h:outputText value="#{bank.institutionName}"/>
             </o:column>
             <o:column header="Certificate Number"
                       width="10%"
                       sortingExpression="#{bank.certificateNumber}">
-                <f:facet name="subHeader">
-                    <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
-                </f:facet>
+
                 <h:outputText value="#{bank.certificateNumber}"/>
             </o:column>
             <o:columnGroup header="Address">
                 <o:column header="City"
                           width="14%"
                           sortingExpression="#{bank.city}">
-                    <f:facet name="subHeader">
-                        <o:inputTextFilter/>
-                    </f:facet>
+
                     <h:outputText value="#{bank.city}"/>
                 </o:column>
                 <o:column header="State"
@@ -234,17 +246,13 @@
                 <o:column header="Zip"
                           width="7%"
                           sortingExpression="#{bank.zip}">
-                    <f:facet name="subHeader">
-                        <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
-                    </f:facet>
+
                     <h:outputText value="#{bank.zip}"/>
                 </o:column>
                 <o:column header="County"
                           width="13%"
                           sortingExpression="#{bank.county}">
-                    <f:facet name="subHeader">
-                        <o:inputTextFilter/>
-                    </f:facet>
+
                     <h:outputText value="#{bank.county}"/>
                 </o:column>
             </o:columnGroup>
@@ -266,17 +274,13 @@
             <o:column header="Institution Name"
                       width="30%"
                       sortingExpression="#{bank.institutionName}">
-                <f:facet name="subHeader">
-                    <o:inputTextFilter/>
-                </f:facet>
+
                 <h:outputText value="#{bank.institutionName}"/>
             </o:column>
             <o:column header="Certificate Number"
                       width="10%"
                       sortingExpression="#{bank.certificateNumber}">
-                <f:facet name="subHeader">
-                    <o:inputTextFilter maxlength="5" autoFilterDelay="1000"/>
-                </f:facet>
+
                 <h:outputText value="#{bank.certificateNumber}"/>
             </o:column>
 
@@ -295,35 +299,8 @@
                 </h:outputText>
             </o:column>
         </o:dataTable>
-
-        <div>
-            <label for="requestCounterFrapme">request Counter</label>
-            <span id="requestCounterFrapme">0</span>
-            <label for="minTimeRequestFrapme">min time</label>
-            <span id="minTimeRequestFrapme">0</span>
-            <label for="maxTimeRequestFrapme">max time</label>
-            <span id="maxTimeRequestFrapme">0</span>
-            <label for="avgTimeRequestFrapme">avg time</label>
-            <span id="avgTimeRequestFrapme">0</span>
-            <label for="sumTimeRequestFrapme">sum time</label>
-            <span id="sumTimeRequestFrapme">0</span>
-        </div>
-        <div>
-            <span id="response">response</span>
-            <label for="minTimeResponseFrapme">min time</label>
-            <span id="minTimeResponseFrapme">0</span>
-            <label for="maxTimeResponseFrapme">max time</label>
-            <span id="maxTimeResponseFrapme">0</span>
-            <label for="avgTimeResponseFrapme">avg time</label>
-            <span id="avgTimeResponseFrapme">0</span>
-            <label for="sumTimeResponseFrapme">sum time</label>
-            <span id="sumTimeResponseFrapme">0</span>
-        </div>
-
         <script type="text/javascript">
-            window.onload = function () {
                 updateFrameProfilerInfo()
-            };
         </script>
     </h:form>
 

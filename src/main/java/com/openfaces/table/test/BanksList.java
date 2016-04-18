@@ -50,7 +50,7 @@ public class BanksList implements Serializable { private List<Bank> allBanks = n
                 Bank bank = new Bank(institutionName.trim(), Integer.parseInt(certificateNumber.trim()), city.trim(), state.trim(),
                         Integer.parseInt(zip.trim()), country.trim(), Integer.parseInt(averageAssets.replaceAll(",", "").trim()));
                 allBanks.add(bank);
-                if (i++ % 7 == 0)
+                //if (i++ % 7 == 0)
                     banks.add(bank);
             }
             reader.close();
